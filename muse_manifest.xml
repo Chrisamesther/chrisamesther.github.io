@@ -1,0 +1,122 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.mobimedics.ng" resolutions="1x" timestamp="1487447041313">
+  <folder name="css">
+    <file name="site_global.css" crc="4162704965"/>
+    <file name="master_a-master.css" crc="29077923" ref="index"/>
+    <file name="index.css" crc="28965251" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="mobi-medics-logo.ai" crc="272664119" seo="true" mt="1487416108000"/>
+    <file name="2.jpg" crc="3977003367" seo="true" mt="1487423080000"/>
+    <file name="shutterstock_222137785-(1).jpg" crc="4283626407" seo="true" mt="1456907752000"/>
+    <file name="fbk.jpg" crc="223308778" seo="true" mt="1481892066000"/>
+    <file name="39902379_xl.jpg" crc="3946514559" seo="true" mt="1472128246000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="277267350" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="phone>index:tablet>index:index"/>
+    <file name="form_process.php" crc="24249335" ref="phone>index:tablet>index:index"/>
+    <file name="form-u1281.php" crc="488704214" ref="phone>index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="tablet>index:index"/>
+    <file name="form-u1200.php" crc="3940029369" ref="tablet>index"/>
+    <file name="form-u669.php" crc="3775711055" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3956954595" ref="phone>index"/>
+    <file name="tag.jpg" crc="3975440624" ref="phone>index:tablet>index:index"/>
+    <file name="top lady.jpg" crc="136620959" ref="phone>index"/>
+    <file name="2-u1307-fr.jpg" crc="365644852" ref="phone>index"/>
+    <file name="facebook-u1268.png" crc="476805622" ref="phone>index"/>
+    <file name="facebook-u1268-r.png" crc="280337558" ref="phone>index"/>
+    <file name="facebook-u1269.png" crc="4092754218" ref="phone>index"/>
+    <file name="facebook-u1269-r.png" crc="4085145620" ref="phone>index"/>
+    <file name="facebook-u1270.png" crc="121353555" ref="phone>index"/>
+    <file name="facebook-u1270-r.png" crc="3939353432" ref="phone>index"/>
+    <file name="1-u1308.png" crc="4050097267" ref="phone>index"/>
+    <file name="1-u1308-r.png" crc="149220509" ref="phone>index"/>
+    <file name="3-u1309-fr.jpg" crc="4133514104" ref="phone>index"/>
+    <file name="choose bt-u1272-fr.jpg" crc="510608530" ref="phone>index:tablet>index"/>
+    <file name="choose bt-u1272-r-fr.jpg" crc="356127318" ref="phone>index:tablet>index"/>
+    <file name="choose bt-u1272-m-fr.jpg" crc="510608530" ref="phone>index:tablet>index"/>
+    <file name="test 1.jpg" crc="279597510" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u1297-21.png" crc="311828129" ref="phone>index"/>
+    <file name="u1297-21-r.png" crc="3844863548" ref="phone>index"/>
+    <file name="u1297-21-m.png" crc="446077895" ref="phone>index"/>
+    <file name="u1297-21-fs.png" crc="51175883" ref="phone>index"/>
+    <file name="facebook-u1299-fr.png" crc="3986099265" ref="phone>index"/>
+    <file name="facebook-u1299-r-fr.png" crc="25352719" ref="phone>index"/>
+    <file name="a.jpg" crc="3838868853" seo="true" ref="tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:index"/>
+    <file name="b.jpg" crc="525035893" seo="true" ref="tablet>index:index"/>
+    <file name="c.jpg" crc="3977577481" seo="true" ref="tablet>index:index"/>
+    <file name="d.jpg" crc="419024559" seo="true" ref="tablet>index:index"/>
+    <file name="e.jpg" crc="346962201" seo="true" ref="tablet>index:index"/>
+    <file name="f.jpg" crc="443553167" seo="true" ref="tablet>index:index"/>
+    <file name="g.jpg" crc="200334578" seo="true" ref="tablet>index:index"/>
+    <file name="h.jpg" crc="401672520" seo="true" ref="tablet>index:index"/>
+    <file name="i.jpg" crc="93132286" seo="true" ref="tablet>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="tablet>index:index"/>
+    <file name="doc-u1091-fr.png" crc="4290047064" ref="tablet>index"/>
+    <file name="1-u1092-fr.png" crc="3898995912" ref="tablet>index"/>
+    <file name="action.png" crc="307417994" ref="tablet>index:index"/>
+    <file name="apply button-u1120-fr.png" crc="159318916" ref="tablet>index"/>
+    <file name="apply button-u1120-r-fr.png" crc="4155854885" ref="tablet>index"/>
+    <file name="apply button-u1120-m-fr.png" crc="159318916" ref="tablet>index"/>
+    <file name="bckg-u1110-fr.png" crc="486320765" ref="tablet>index"/>
+    <file name="2.jpg" crc="3943553144" ref="tablet>index:index"/>
+    <file name="1-u1099-fr.jpg" crc="4095316539" ref="tablet>index:index"/>
+    <file name="1-u1099-r-fr.png" crc="3903821331" ref="tablet>index:index"/>
+    <file name="3.jpg" crc="425953875" ref="tablet>index:index"/>
+    <file name="facebook-blue.png" crc="3763308290" ref="tablet>index:index"/>
+    <file name="facebook-u1108-r-fr.png" crc="77358883" ref="tablet>index:index"/>
+    <file name="call.png" crc="384462071" ref="tablet>index:index"/>
+    <file name="patron.jpg" crc="198423296" ref="tablet>index:index"/>
+    <file name="f-u1125-fr.png" crc="4148009907" ref="tablet>index"/>
+    <file name="test 3.jpg" crc="514117111" seo="true" ref="tablet>index:index"/>
+    <file name="test 2.jpg" crc="382261015" seo="true" ref="tablet>index:index"/>
+    <file name="u1206-17.png" crc="4065670017" ref="tablet>index"/>
+    <file name="u1206-17-r.png" crc="510408507" ref="tablet>index"/>
+    <file name="u1206-17-m.png" crc="3942714987" ref="tablet>index"/>
+    <file name="u1206-17-fs.png" crc="429072527" ref="tablet>index"/>
+    <file name="iphone.png" crc="129421166" ref="index"/>
+    <file name="doc.png" crc="3902915801" ref="index"/>
+    <file name="bckg-u316-fr.png" crc="318637944" ref="index"/>
+    <file name="fun facts.png" crc="3917733124" ref="index"/>
+    <file name="skills ban.png" crc="216513644" ref="index"/>
+    <file name="apply button.png" crc="456465473" ref="index"/>
+    <file name="apply button-apply copy 2.png" crc="323242758" ref="index"/>
+    <file name="apply button-apply copy.png" crc="456465473" ref="index"/>
+    <file name="choose bt.jpg" crc="4180704041" ref="index"/>
+    <file name="choose bt-group 1.jpg" crc="521611086" ref="index"/>
+    <file name="choose bt-group 2.jpg" crc="4180704041" ref="index"/>
+    <file name="h-u587-fr.png" crc="501369518" ref="index"/>
+    <file name="u685-17.png" crc="4065670017" ref="index"/>
+    <file name="u685-17-r.png" crc="510408507" ref="index"/>
+    <file name="u685-17-m.png" crc="3942714987" ref="index"/>
+    <file name="u685-17-fs.png" crc="429072527" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4064744488" ref="tablet>index"/>
+      <file name="index.css" crc="520415176" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4269155604" seo="true" mt="1487446904519" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="184621238" ref="phone>index"/>
+      <file name="index.css" crc="3981511934" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4154096379" seo="true" mt="1487446904527" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3827081056" seo="true" mt="1487446904523" redirect="true"/>
+</manifest>
